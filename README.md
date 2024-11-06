@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data science<br>👯 I’m looking to collaborate on artificial intelligence<br>🌱 I’m currently learning reinforcement learning<br>
+🔭 I’m currently working on data science<br>👯 I’m looking to collaborate on Machine Learning<br>🌱 I’m currently learning reinforcement learning<br>
 
 
 ## 🌐 Socials:
