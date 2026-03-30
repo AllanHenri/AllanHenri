@@ -21,7 +21,7 @@ E coloque este README.md lá.
 ---
 
 ## 🚀 Sobre mim
-- 🎓 **Engenharia de Computação** (7º período)
+- 🎓 **Engenharia de Computação** (8º período)
 - 💼 Experiência com **ETL, automação, integração com ERP, BI**
 - 🤖 Pesquisa/projetos em **Robótica** e **Aprendizado por Reforço (PPO)** com **PyBullet/Gym**
 - 🌍 Objetivo: atuar como **Engenheiro de Dados** (remoto / internacional)
