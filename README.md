@@ -61,6 +61,7 @@ I am currently improving my skills in **dbt**, **cloud architecture**, and moder
 
 **ETL Pipelines with Python, SQL, and Airflow**  
 Building structured workflows to extract, transform, and load data from APIs and databases.
+https://github.com/AllanHenri/ecommerce-data-platform
 
 **Batch Processing with PySpark**  
 Developing scalable transformation workflows and exporting analytics-friendly datasets.
